@@ -1,133 +1,133 @@
-msgid ""
+oimsgid ""
 msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "AUDIO_ENHANCEMENT"
-msgstr "Audio Enhancement"
+msgstr "make da noize enhancd n fanci"
 
 msgid "BTN_START_UPLOAD"
-msgstr "Start Upload"
+msgstr "start da uplod"
 
 msgid "BTN_UPLOAD_AGAIN"
-msgstr "Upload Again"
+msgstr "uplod againz"
 
 # ...do so, visit https://flipnot.es/ABC123/yt
 msgid "CHANGE_OPTIONS_ON_THEATRE"
-msgstr "You can change these options before upload. To do so, visit:"
+msgstr "u can change da stuffz b4 u uplod!! if u wanna, vizit:"
 
 # If the user's already uploaded it...
 msgid "FLIPNOTE_ALREADY_UPLOADED"
-msgstr "You've already uploaded this Flipnote to YouTube."
+msgstr "u already uploded dis flip :0!"
 
 msgid "FLIPNOTE_SMOOTHING"
-msgstr "Flipnote Smoothing"
+msgstr "make it smoothhhh"
 
 msgid "HEADER_CONFIRM_OPTIONS"
-msgstr "Confirm Options"
+msgstr "yez i wanna do dis! confirmz!"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "uplodz to yoootubez"
 
 # A URL is displayed after this:
 msgid "HOW_TO_LINK_FROM_THEATRE"
-msgstr "To link your YouTube channel, visit this page:"
+msgstr "if u wanna link dis, go to:"
 
 msgid "HOW_TO_REFRESH_FROM_THEATRE"
-msgstr "To update your channel, visit this page:"
+msgstr "if u wanna upload ya channelz, vizit:"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
+msgstr "ya need to link ya channel before you uplod dis!!"
 
 msgid "NONE"
-msgstr "None"
+msgstr "none"
 
 msgid "OFF"
-msgstr "Off"
+msgstr "off"
 
 msgid "ON"
-msgstr "On"
+msgstr "on"
 
 # Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
 msgid "PLUS_FEATURES"
-msgstr "Plus Features"
+msgstr "kewlz sudo plus featurez!"
 
 msgid "PLUS_FEATURES_NOTE"
-msgstr "Change these options from your Flipnote details page."
+msgstr "u can change da optionz from da flipnot detailz page!"
 
 # Position in queue: 4
 msgid "POSITION_IN_QUEUE"
-msgstr "Position in queue: %d"
+msgstr "position in queue: %d"
 
 msgid "PREVIEW_DESC"
-msgstr "Description"
+msgstr "descrippy"
 
 msgid "PREVIEW_EXTRA_DESC"
-msgstr "Extra Description"
+msgstr "xtra descrippyz"
 
 msgid "PREVIEW_EXTRA_DESC_EXPLANATION"
-msgstr "This text will display when viewers click on 'Show more' in your video's description."
+msgstr "when ya viewurz click 'show more' on da vid descrippy, dey see dis textz!"
 
 # Preview upload details before submitting
 msgid "PREVIEW_TITLE"
-msgstr "Title"
+msgstr "da title"
 
 msgid "RECONNECT_NEEDED"
-msgstr "The connection to your YouTube channel is out of date."
+msgstr "da connecty to ya yoootube channul iz outta datez"
 
 msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
-msgstr "Please review these options before starting your upload."
+msgstr "plz look at da detailz befor ya start da uplod!"
 
 # ...please visit: https://flipnot.es/ytsetup
 msgid "SET_DEFAULTS_ON_THEATRE"
-msgstr "To change your default upload options, please visit:"
+msgstr "if u wanna change ya default optionz on theatr, plz vizit:"
 
 msgid "STATUS"
-msgstr "Status"
+msgstr "status"
 
 msgid "SUBMIT"
-msgstr "Submit"
+msgstr "submit"
 
 msgid "TAGS"
-msgstr "Tags"
+msgstr "tagz"
 
 msgid "THEATRE_STATUS_TRACKER"
-msgstr "Watch your live Upload Tracker here:"
+msgstr "watch ya live uplod trackr right here!!:"
 
 msgid "TITLE_DESC_ADD_FIRST"
 msgstr "Please go back and add these before continuing."
 
 msgid "TITLE_DESC_MISSING"
-msgstr "Your Flipnote needs to have a title and description before you can upload it."
+msgstr "dis flippy needz a title n descrippy befor u can uplod!"
 
 # Upload status
 msgid "UPLOAD_STATUS"
-msgstr "Upload Status"
+msgstr "uplod status"
 
 msgid "YOUTUBE"
-msgstr "YouTube"
+msgstr "yoootube"
 
 # To fix this, visit: https://flipnot.es/ytsetup
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
-msgstr "To fix this, visit:"
+msgstr "to fix thiz, go to:"
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr "Your YouTube account is unverified. Certain features will not function correctly, such as video thumbnails and Flipnotes longer than 15 minutes."
+msgstr "ya yootubez account iz unverified! D: sum featurez will not work corectly like vid thumbnailz n flipnotez longah than 15 minz!"
 
 msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
+msgstr "plz contant uz on da sudocord or via email to %s."
 
 msgid "YOUTUBE_ESTIMATED_DURATION"
-msgstr "Estimated video duration:"
+msgstr "da eztimated vid duration:"
 
 msgid "YOUTUBE_ID"
-msgstr "YouTube ID"
+msgstr "yootube ID"
 
 msgid "YOUTUBE_INTEGRATION_BANNED"
-msgstr "Your account and console have been restricted from using our YouTube integration services."
+msgstr "ur account n console haz been reztricted from using our yootube integration servicez! D:"
 
 msgid "YOUTUBE_LOOP_COUNT"
-msgstr "Number of plays"
+msgstr "numba of da playz"
 
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "Number of times a looped Flipnote will repeat. If 1, the Flipnote will only play once."
@@ -176,25 +176,25 @@ msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "You can currently upload %s videos to YouTube per day."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
-msgstr "You have uploaded %s videos so far today."
+msgstr "u have uploded %S vidz so far today"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
-msgstr "You can't upload any more videos until tomorrow."
+msgstr "u cant uplod any mor vidz til tomorrow"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "Sudomemo Plus members can upload %s videos per day."
+msgstr "sudo pluz membrz can uplod %S vidz per dai"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Sudomemo Plus members can upload an unlimited number of videos each day."
+msgstr "sudo plus membrz can uplod an unlimited numbah of vidz each dai"
 
 msgid "YOUTUBE_VISIBILITY"
-msgstr "Visibility"
+msgstr "vizibity"
 
 msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "Private"
+msgstr "private"
 
 msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "Public"
+msgstr "public"
 
 msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "Unlisted"
+msgstr "unlizted"
