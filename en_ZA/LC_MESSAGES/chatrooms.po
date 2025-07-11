@@ -13,13 +13,13 @@ msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Pls confrmp ur email befo posting!!"
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This coment wuz alredy posted!!!"
+msgstr "thiz coment wuz alredy posted!!!"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "oopsie ddaisy ur flipnot was corrupted....."
 
 msgid "HEADER_COMMENTS"
-msgstr "coments"
+msgstr "comentz"
 
 msgid "HEADER_NEXT"
 msgstr "yEet"
@@ -40,10 +40,10 @@ msgid "NO_BLANK_MESSAGES_ALLOWED"
 msgstr "NO BLANK MESAGES ALLOWED SILLY!!!"
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "You have been muted. You may not chat."
+msgstr "u gotz muted!! no chatarooz allowed! D:"
 
 msgid "NO_COMMENTS_YET"
-msgstr "No mesages wur sented here :("
+msgstr "no mesages wur sented here yetz :("
 
 msgid "PAGE_FORMAT"
 msgstr "page %d"
@@ -52,7 +52,7 @@ msgid "ROOM_NAME_anime_chat"
 msgstr "Anime Chat"
 
 msgid "ROOM_NAME_birthday_bash"
-msgstr "Sudomemo Birthday Bash"
+msgstr "sudo birthdai bash"
 
 msgid "ROOM_NAME_blue_chat"
 msgstr "Blue Chat"
