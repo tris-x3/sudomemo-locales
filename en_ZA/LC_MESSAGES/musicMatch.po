@@ -18,7 +18,7 @@ msgid "GENRE"
 msgstr "Genre"
 
 msgid "HEADER_SONG_DETAILS"
-msgstr "Song Details"
+msgstr "da song detailz"
 
 # Creator instructions
 msgid "IF_SONG_INCORRECT"
@@ -38,8 +38,8 @@ msgid "RELEASE_YEAR"
 msgstr "Released"
 
 msgid "SONG_ID"
-msgstr "Song ID"
+msgstr "song ID"
 
 # Song Name
 msgid "TITLE"
-msgstr "Title"
+msgstr "da title"
